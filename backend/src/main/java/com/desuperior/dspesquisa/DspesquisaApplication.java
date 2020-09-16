@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DspesquisaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DspesquisaApplication.class, args);
+		SpringApplication.run(DspesquisaApplication.class, args); 
 	}
 
 }
